@@ -28,7 +28,7 @@ Download the datasets from
 2) Now you need to have the data, run `TrainModel.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `TestDrive.py`
 
-<img src="https://github.com/ashutosh1997/Self_Driving_Car/blob/master/working.gif">
+<img src="https://github.com/ashutoshkumar19/Self_Driving_Car/blob/master/working.gif">
 
 
 ## Autopilot V2 (NVIDIA Dataset based on real world)
